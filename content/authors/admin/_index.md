@@ -43,6 +43,22 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/nalivaykosergey
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=1JexQ24AAAAJ&hl=ru
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-9263-4515
+- icon: researchgate 
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Sergey_Nalivayko
+- icon: academia
+  icon_pack: ai
+  link: https://rudn.academia.edu/SergeyNalivayko
+- icon: mendeley
+  icon_pack: ai
+  link: https://www.mendeley.com/profiles/sergey-nalivayko/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
