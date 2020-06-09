@@ -5,16 +5,33 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"  
+[ru]
+  languageCode = "ru-ru"
+  contentDir = "content/ru"  
+  title = "Наливайко С.М."
 
-# Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+  [[ru.menu.main]]
+    name = "Обо мне"
+    url = "#about"
+    weight = 10
+
+  [[ru.menu.main]]
+    name = "Блог"
+    url = "#posts"
+    weight = 20
+
+  [[ru.menu.main]]
+    name = "Проекты"
+    url = "#projects"
+    weight = 30
+
+
+  [[ru.menu.main]]
+    name = "Контакты"
+    url = "#contact"
+    weight = 40
+  
+   
+  
+  

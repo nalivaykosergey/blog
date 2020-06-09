@@ -1,0 +1,1 @@
+/home/sergey/University/SciProg/blog/git/content/ru/post/book1.md
